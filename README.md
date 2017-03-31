@@ -43,3 +43,7 @@ Support: Tim, Ashley
 
 ## PRIZE
 House points will be awarded to all participants who stay until the end, as well as to the group with the best project.
+
+## RESOURCES
+Prototype: https://projects.invisionapp.com/share/XUAF3OKBA#/screens
+
