@@ -1,9 +1,23 @@
 # #WLA Hackathon
 
 ## BACKGROUND
-As you know, WLA is an exciting place.
+As you know, WLA is an exciting place. Over the next few years, you will master computer science, tackle the most pressing social justice issues and prepare yourselves to become the leaders of tomorrow. But for someone wanting to learn more about all of the exciting things that go on here from WLA's website, something gets lost...you! The current website doesn't say much about you, the student, your personal story or your ambitions. Let's try to fix that, shall we?
 
 ## CHALLENGE
+Your mission is to start designing a new website for the school that shows off your personal student stories and what your life at WLA is actually like. What brought you to WLA? What do your classrooms look like? What's your favorite part about the school? What do you want to do after you graduate?
+
+You can do tackle the challenge however you like, but here are some ideas to get you started:
+
+House Questionnaire
+
+Virtual tour script and/or photography for any of the four classrooms
+
+Virtual tour script and/or photography for Brewer Hall
+
+Virtual tour script and/or photography for College Hall
+
+Virtual tour script and/or photography for Great Hall
+
 
 ## TEAMS
 Team 1: Jerome, Da’Jah, Michael
